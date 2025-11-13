@@ -29,7 +29,7 @@ stopwatch-app/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/stopwatch-app.git
+git clone https://github.com/DokkuMahalakshmi/stop-watch.git
 
 
 Open the project folder:
@@ -49,8 +49,7 @@ Under “Source,” select main branch → / (root).
 
 Click Save, and GitHub will give you a live link.
 Example:
-
-https://yourusername.github.io/stopwatch-app/
+https://github.com/DokkuMahalakshmi/stop-watch.git
 
 💡 Future Enhancements
 
@@ -63,4 +62,4 @@ Save session times using localStorage
 🧑‍💻 Author
 
 Your Name
-🔗 GitHub
+DOKKU MAHALAKSHMI 
